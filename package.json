@@ -1,6 +1,6 @@
 {
   "name": "notebook-test-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jupyter notebook test data. Add your own!",
   "main": "index.js",
   "scripts": {
